@@ -1,4 +1,4 @@
 Layout
 ======
 
-This project provide five layout on IOS
+这是一个在IOS下面的布局框架，提供了流式布局，边框布局，卡片布局，表格布局，盒式布局，嵌套布局。
