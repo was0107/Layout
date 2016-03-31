@@ -1,5 +1,5 @@
 
-# Layout
+# WASLayout
 iOS下的布局框架
 =
 
@@ -12,13 +12,14 @@ iOS下的布局框架
 一、概述
 -
 * 此框架设计于2012年完成，基于iPhone4进行设计，目前未进行维护
+* (修正，目前已经进行了迁移，支持ARC)
 * UML图
 <img src="https://raw.githubusercontent.com/was0107/Layout/master/images/uml.png" width="80%">
 
 
 二、发布
 - 
-* 老版本
+* WASLayout 最低支持版本为7.0;
 
 三、效果
 -
@@ -29,3 +30,4 @@ iOS下的布局框架
 <img src="https://raw.githubusercontent.com/was0107/Layout/master/images/4.jpg" width="80%">
 <img src="https://raw.githubusercontent.com/was0107/Layout/master/images/5.jpg" width="80%">
 <img src="https://raw.githubusercontent.com/was0107/Layout/master/images/6.jpg" width="80%">
+<img src="https://raw.githubusercontent.com/was0107/Layout/master/images/7.jpg" width="80%">

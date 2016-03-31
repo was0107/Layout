@@ -1,0 +1,6 @@
+framework module WASLayout {
+  umbrella header "WASLayout.h"
+
+  export *
+  module * { export * }
+}
