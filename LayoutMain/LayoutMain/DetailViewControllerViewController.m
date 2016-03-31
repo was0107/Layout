@@ -19,6 +19,9 @@
         
         UIBarButtonItem *item = [[[UIBarButtonItem alloc] initWithTitle:@"refresh" style:UIButtonTypeInfoDark target:self action:@selector(refresh:)] autorelease];
         self.navigationItem.rightBarButtonItem = item;
+        self.automaticallyAdjustsScrollViewInsets = NO;
+        self.extendedLayoutIncludesOpaqueBars = YES;
+        self.edgesForExtendedLayout = UIRectEdgeNone;
     }
     return self;
 }
